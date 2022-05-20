@@ -1,10 +1,8 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-### Hi there 👋
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<!--
-**EljayiYassir/EljayiYassir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm #Yassir Eljayi 👋
 
-Here are some ideas to get you started:
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+I am a PH-d student in mathematix and machine learning, also a data scientist who has knowledge and passion in stuf relatrd to machine learning and IA
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!--
+**EljayiYassir/EljayiYassir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
