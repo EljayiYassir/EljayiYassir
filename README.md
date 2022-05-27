@@ -4,7 +4,7 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 I am a PhD student in mathematics and machine learning, also a data scientist who has knowledge and passion in stuff related to machine learning and IA.
 
-Tools:
+1. Tools:
 - Regression.(Linear, logistic, Polynomial, ANN, advanced Models)
 - Classification.(SVM, K-mean, Hierarchical classification, KNN, naive bayes, advanced Models)
 - Deep Learning.(DNN, CNN, RNN, NLP, advanced Models)
