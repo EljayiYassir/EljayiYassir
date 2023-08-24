@@ -7,7 +7,9 @@
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
 
 
-I'm a skilled __mathematician__ adept at leveraging __Machine Learning__, __Deep Learning__ and __Data Science__ techniques to unravel complex predictive models. My goal is to collaborate with businesses to uncover insights behind these predictions, turning intricate concepts into actionable decisions. My __love__ is Math and my __passion__ lies in Machine Learning and Data Science, where I see boundless potential for Artificial Intelligence across domains, driven by rapid computing advances and unprecedented data access.
+> I'm a skilled __mathematician__ adept at leveraging __Machine Learning__, __Deep Learning__ and __Data Science__ techniques to unravel complex predictive models. My goal is to collaborate with businesses to uncover insights behind these predictions, turning intricate concepts into actionable decisions.
+>
+> My __love__ is Math and my __passion__ lies in Machine Learning and Data Science, where I see boundless potential for Artificial Intelligence across domains, driven by rapid computing advances and unprecedented data access.
 
 
 <h2>👨‍💻🙋🏼‍♂️ About Me 💼📢: </h2>
