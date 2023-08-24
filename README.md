@@ -8,7 +8,7 @@
 
 
 | I'm a skilled __mathematician__ adept at leveraging __Machine Learning__, __Deep Learning__ and __Data Science__ techniques to unravel complex predictive models. My goal is to collaborate with businesses to uncover insights behind these predictions, turning intricate concepts into actionable decisions. My __love__ is Math and my __passion__ lies in Machine Learning and Data Science, where I see boundless potential for Artificial Intelligence across domains, driven by rapid computing advances and unprecedented data access. | ![](https://github.com/EljayiYassir/GIF-IMG-File/blob/b4ff2f45bd4b8178b2c19d4c17465037f3421c77/IMAGE/personal_profile.jpg) |
-
+| :-:| :-:| 
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
