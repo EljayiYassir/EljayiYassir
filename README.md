@@ -50,17 +50,13 @@ learning projects.
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
-[<img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
-[![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org)
 [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com)
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com)
 [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
-[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/)
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
 [<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width="100"
     height="27.5" />](https://www.sqlite.org/index.html)[![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org)
@@ -144,16 +140,7 @@ in-depth understanding of various areas, including computer vision, natural lang
 | :-: | :-: | 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Web%20Scraping%20Movies.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/IMDB%20web%20scraping%20.ipynb) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Restaurant%20Recipes%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Recipes%20XML%20querying.ipynb)|
 
-| 🎮 [Popular Gaming Titles Wikipedia Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb)| 🎒 [University Instructors Information Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)|
-| :-: | :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Gaming%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Webscraping%20of%20Popular%20Gaming%20Titles%20Wikipedia.ipynb) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Instructor%20Web%20Scraping%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/XML%20document%20reading.ipynb)|
-
-| 🔐 [JSON file Web Scraping](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb)| 
-| :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/JSON%20file%20xml.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Web-Scraping/blob/main/Json%20File%20Reading%20.ipynb) | 
-
 <hr style="border:0.01px solid blue">
-
 
 
 ## 📽📽 My Kaggle Profile
@@ -166,7 +153,7 @@ give me a good idea about the working of machine learning models. Furthermore, I
 which I get a good understanding of the various ways in which a machine learning project could be implemented. Below is
 a list of all the work that I did in __Kaggle__. Feel free to take a look and give your feedback! Thanks.
 
-__https://www.kaggle.com/suhasmaddali007__
+__link__
 
 ## 🎗🎗 My Volunteer Experience
 
@@ -216,32 +203,6 @@ about the overall workflow of machine learning and data science starting from Vi
 models.
 
 
-## 🕹🎮 Additional Information👨‍💻👨‍💻:
-
-<img src="https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif" />
-
-Furthermore, I'm also a __gamer__ and where I spend some time gaming on steam and other platforms. Sometimes it would be
-good to spend time doing activities other than reading which would ensure that we could most effectively use our time
-for doing other activities as well. Below are some platforms where I usually game mostly.
-
-[![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com)
-[![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/)
-[![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store)
-[![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
-
-## Useful Links
-
-__https://www.ibm.com/cloud/learn/machine-learning__
-
-__https://www.salesforce.com/eu/blog/2020/06/real-world-examples-of-machine-learning.html__
-
-__https://www.springboard.com/library/machine-learning-engineering/how-to-become/__
-
-__https://machinelearningmastery.com/what-is-deep-learning/__
-
-__https://healthinformatics.uic.edu/blog/machine-learning-in-healthcare/__
-
-__https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/__
 
 ## 🎬🔚 Summary
 
