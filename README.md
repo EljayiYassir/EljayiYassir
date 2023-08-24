@@ -7,9 +7,8 @@
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
 
 
-My enthusiasm lies in __Machine Learning__ and __Data Science__, fields that captivate me. Witnessing the evolution of technology, I am convinced that Artificial Intelligence holds boundless potential across various domains. The exponential strides in computing prowess and the unprecedented ability to harness massive datasets propel the realms of Data Science and Machine Learning into unparalleled frontiers.
+| I'm a skilled __mathematician__ adept at leveraging __Machine Learning__, __Deep Learning__ and __Data Science__ techniques to unravel complex predictive models. My goal is to collaborate with businesses to uncover insights behind these predictions, turning intricate concepts into actionable decisions. My __love__ is Math and my __passion__ lies in Machine Learning and Data Science, where I see boundless potential for Artificial Intelligence across domains, driven by rapid computing advances and unprecedented data access. | ![](https://github.com/EljayiYassir/GIF-IMG-File/blob/b4ff2f45bd4b8178b2c19d4c17465037f3421c77/IMAGE/personal_profile.jpg) |
 
-![]()
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
