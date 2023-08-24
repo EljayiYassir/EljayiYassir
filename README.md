@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there, I'm Yassir ElJayi 👋</h1>
 
-<p align="center">
+<center>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassir-eljayi)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yassireljayi)
 [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Yassir-Eljayt)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yassir.eljayi.3)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
-</p>
+</center>
 
 I'm a skilled __mathematician__ adept at leveraging __Machine Learning__, __Deep Learning__ and __Data Science__ techniques to unravel complex predictive models. My goal is to collaborate with businesses to uncover insights behind these predictions, turning intricate concepts into actionable decisions. My __love__ is Math and my __passion__ lies in Machine Learning and Data Science, where I see boundless potential for Artificial Intelligence across domains, driven by rapid computing advances and unprecedented data access.
 
