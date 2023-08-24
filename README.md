@@ -9,7 +9,7 @@
 I'm a skilled __mathematician__ adept at leveraging __Machine Learning__, __Deep Learning__ and __Data Science__ techniques to unravel complex predictive models. My goal is to collaborate with businesses to uncover insights behind these predictions, turning intricate concepts into actionable decisions. My __love__ is Math and my __passion__ lies in Machine Learning and Data Science, where I see boundless potential for Artificial Intelligence across domains, driven by rapid computing advances and unprecedented data access.
 
 
-<h2 style="background-color: #cefffb; padding: 10px; border-radius: 5px;">About Me</h2>
+<h2>👨‍💻🙋🏼‍♂️ About Me 💼📢 </h2>
 
 | I hold a Masters Degree in Data Science at. I have *4+ years* of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by __Stanford University__ and Deep Learning Specialization by . These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. I worked at companies such  as a __Data Scientist__ and generated value from data. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂 | ![](https://github.com/EljayiYassir/GIF-IMG-File/blob/b4ff2f45bd4b8178b2c19d4c17465037f3421c77/IMAGE/personal_profile.jpg) |
 | :-| :-:| 
