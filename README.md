@@ -95,14 +95,6 @@ in-depth understanding of various areas, including computer vision, natural lang
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Car%20Image%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Car-Prices-Prediction)
 
-| 🏦 [Predicting Loan Default](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| 🫀 [Heart Disease Prediction](https://github.com/suhasmaddali/Heart-Disease-Prediction)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Bank%20Loan%20Image-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Predicting-Loan-Default-Using-Machine-Learning)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Heart%20Disease%20Prediction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Heart-Disease-Prediction)
-
-| 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/AirBnb%20Houses%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Telco%20Customer%20Churn%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
-
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My Natural Language Processing (NLP) Projects</h2> 
@@ -111,9 +103,6 @@ in-depth understanding of various areas, including computer vision, natural lang
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
 
-| 🗞 [Fake News Prediction](https://github.com/suhasmaddali/Fake-News-Prediction)| 🔎 [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)|
-| :-:| :-:|
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Fake%20News%20Image%20Latest.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Fake-News-Prediction)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Automated%20Essay%20scoring%20latest%20github%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)|
 
 <hr style="border:0.01px solid blue">
 
@@ -122,14 +111,6 @@ in-depth understanding of various areas, including computer vision, natural lang
 | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🌞 [Solar Panels Dust Detection](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panels%20Main%20GitHub%20Image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
-
-| 🌾 [Wheat Localization With Convolutional Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Wheat%20image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Steel%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
-
-| 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)| 🕸 [Convolutional Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
-| :-:| :-:|
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Basic%20network%20Image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
 
 <hr style="border:0.01px solid blue">
 
