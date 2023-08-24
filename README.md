@@ -30,7 +30,8 @@ engineer__ or a __data scientist__.
 | :-| :-| 
 
 
-## 🎬📠 My GitHub Summary:
+
+## 🎬📠 My [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EljayiYassir) Summary: 
 
 <img src="https://github.com/suhasmaddali/Images/blob/main/Text%20Generated.gif" />
 
