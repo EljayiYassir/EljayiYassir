@@ -36,7 +36,7 @@ proficient in and highlights the commitment I have for my projects. By examining
 understanding of the extent and depth of my expertise.
 
 ```diff
-The images are downloaded and used thanks to  https://unsplash.com/ and https://giphy.com/ websites. 🙂
++ The images are downloaded and used thanks to  https://unsplash.com/ and https://giphy.com/ websites. 🙂
 ```
 
 ## 💼🎒 My Portfolio Overview:
