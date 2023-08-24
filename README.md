@@ -99,7 +99,7 @@ in-depth understanding of various areas, including computer vision, natural lang
 
 | 🍿 [highest-grossing mobile games Web Scraping](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML]()|
 | :-: | :-: | 
-| [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 500 height = 300/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) | |
+| [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 500 height = 300/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) |  [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 500 height = 300/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) |
 
 <hr style="border:0.01px solid blue">
 
