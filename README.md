@@ -49,7 +49,7 @@ I encourage you to explore my machine learning and deep learning projects to gai
 are provided below, along with detailed descriptions at the bottom of this website. My portfolio showcases a diverse and
 in-depth understanding of various areas, including computer vision, natural language processing, and more.
 
-<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/7766711b8a11352ebd9d0bd06ca9b7b80a79e480/GIF/portfolio_project.gif" width=800 height=800 />
+<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/7766711b8a11352ebd9d0bd06ca9b7b80a79e480/IMAGE/Projects_profil.jpg" width=1000 height=400 />
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
