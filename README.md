@@ -53,9 +53,9 @@ in-depth understanding of various areas, including computer vision, natural lang
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🍇🌴 [Date fruit classification](https://github.com/EljayiYassir/date_fruit_classification)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 500 height = 300/>](https://github.com/EljayiYassir/date_fruit_classification)
+| | 🚴‍ [Washington Bike Demand Prediction](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| 🍇🌴 [Date fruit classification](https://github.com/EljayiYassir/date_fruit_classification)|
+| :-:| :-:| :-:| 
+| 🖥 My Machine Learning Projects |[<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 500 height = 300/>](https://github.com/EljayiYassir/date_fruit_classification)
 
 <hr style="border:0.01px solid blue">
 
