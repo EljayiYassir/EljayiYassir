@@ -121,40 +121,12 @@ a list of all the work that I did in __Kaggle__. Feel free to take a look and gi
 
 __link__
 
-## 🎗🎗 My Volunteer Experience
-
-<img src="https://github.com/suhasmaddali/Images/blob/main/absolutvision-82TpEld0_e4-unsplash.jpg" width="750" />
-
-
-👨‍💼 [__VNR SF__](https://www.youtube.com/channel/UCTgSWJtVshqOZXM1Q8FK_PQ)
-
-* I was a member of VNR SF and I was most influential in driving the goals of the team in helping the community by
-providing the needy access to resources and books.
-* This gave me a good experience of working with different individuals and learning about their goals and dreams.
-* There were a few floods in our region during those times. We as a team went to a few neighborhoods and gave them
-access to new books and also explained our initiative to serve the poor and needy by giving them access to all the
-resources.
-* This experience was really useful for me and the way in which I viewed education in shaping my life.
-* This gave me an opportunity to take a look at the poorest neighborhood and understand their needs and demands.
-
-<hr style="border:0.01px solid blue">
-
-🎤 [__Crescendo__](https://www.facebook.com/events/the-gallery-cafe/crescendo-the-vnrvjiet-band/1395963707155985/)
-
-* In our engineering college, we had Crescendo which was the singing club where people from different departments in
-college came together to sing and learn to enjoy music.
-* I was the lead singer during that time.
-* Furthermore, I was also directing different groups of people to sing and also play musical instruments respectively.
-* It was a really good experience to learn from the team the mistakes and correct them and ensure that everything was
-going well.
-* It shaped the way in which I viewed music which was to not just sing but also enjoy the process.
-* My 2 years of working with Crescendo really helped in handling practical aspects of life as well.
-* Overall, it was a good and amazing experience to learn from a group of people from different departments in my college
-and it was really influential.
 
 ## 🤝🤝 My References
+| Kaggle | Youtube | Coursera |  Github |
+| :-:| :-:|:-:|:-:|
+| <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/f18d8c049293d4c57a7f740bb2b37c5ec9a45ef0/IMAGE/kaggle.png" width="200" />| <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/f18d8c049293d4c57a7f740bb2b37c5ec9a45ef0/GIF/Youtube.webp" width="200" />| <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/f18d8c049293d4c57a7f740bb2b37c5ec9a45ef0/IMAGE/Coursera.webp" width="200" />|<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/f18d8c049293d4c57a7f740bb2b37c5ec9a45ef0/GIF/Github.webp" width="200" /> |
 
-<img src="https://github.com/suhasmaddali/Images/blob/main/nasa-1lfI7wkGWZ4-unsplash.jpg" width="750" />
 
 During my work and my LinkedIn contributions, I came across a wonderful set of people who allowed me to exhibit my
 talents and skills and made my learning experience easy. Furthermore, they were also influential in giving me the right
