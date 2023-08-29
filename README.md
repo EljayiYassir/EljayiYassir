@@ -57,54 +57,53 @@ in-depth understanding of various areas, including computer vision, natural lang
 | :-:| :-:| :-:| 
 | 🖥 My Machine Learning Projects |[<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction)| [<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 500 height = 300/>](https://github.com/EljayiYassir/date_fruit_classification)
 
-<hr style="border:0.01px solid blue">
 
-<h2 align = "center"> 🖥 My Natural Language Processing (NLP) Projects</h2> 
 
-| 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
+| | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
+
+
+|🖥 My Natural Language Processing (NLP) Projects | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
 
 
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My Computer Vision Projects</h2>
 
-| 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🌞 [Solar Panels Dust Detection](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
-| :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panels%20Main%20GitHub%20Image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
+| | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🌞 [Solar Panels Dust Detection]| (https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
+| :-:| :-:| :-:| 
+| | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Solar%20Panels%20Main%20GitHub%20Image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
 
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My Unsupervised Machine Learning Projects</h2> 
 
-| 📚 [Article Recommender System](https://github.com/suhasmaddali/Article-Recommender-System)| 
-| :-: |
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Article%20Recommender%20System%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Article-Recommender-System)| 
+| | 📚 [Article Recommender System](https://github.com/suhasmaddali/Article-Recommender-System)| 
+|  :-:| :-: |
+| | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Article%20Recommender%20System%20Image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Article-Recommender-System)| 
 
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My Data Visualization Projects </h2> 
 
-| 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 🔍 [Google Play Store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
-| :-: | :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
+| | 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 🔍 [Google Play Store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
+| :-: | :-: | :-: | 
+| | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My SQL Projects</h2> 
 
-| 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
-| :-: |
-| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Cab-Reservation-System-)|
+| | 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
+| :-: | :-: |
+| | [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 500 height = 300/>](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🖥 My Web Scraping Projects</h2>
 
-| 🍿 [highest-grossing mobile games Web Scraping](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML]()|
-| :-: | :-: | 
-| [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 500 height = 300/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) |  [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 500 height = 300/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) |
+| | 🍿 [highest-grossing mobile games Web Scraping](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML]()|
+| :-: | :-: | :-: | 
+| | [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 500 height = 300/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) |  [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 500 height = 300/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) |
 
 <hr style="border:0.01px solid blue">
 
