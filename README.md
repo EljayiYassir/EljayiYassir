@@ -111,36 +111,18 @@ in-depth understanding of various areas, including computer vision, natural lang
 
 ## 📽📽 My Kaggle Profile
 
-<img src="https://github.com/suhasmaddali/Images/blob/main/didssph-guxJTmZKhsg-unsplash.jpg" width="750" />
-
 I'm very familiar with __Kaggle__ - a website that would help __data scientists__ and __machine learning engineers__ to
 explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which
 give me a good idea about the working of machine learning models. Furthermore, I would read others' code as a result of
 which I get a good understanding of the various ways in which a machine learning project could be implemented. Below is
 a list of all the work that I did in __Kaggle__. Feel free to take a look and give your feedback! Thanks.
 
-__link__
 
 
 ## 🤝🤝 My References
 | Kaggle | Youtube | Coursera |  Github |
 | :-:| :-:|:-:|:-:|
 | <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/f18d8c049293d4c57a7f740bb2b37c5ec9a45ef0/IMAGE/kaggle.png" width="200" />| <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/f18d8c049293d4c57a7f740bb2b37c5ec9a45ef0/GIF/Youtube.webp" width="200" />| <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/f18d8c049293d4c57a7f740bb2b37c5ec9a45ef0/IMAGE/Coursera.webp" width="200" />|<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/f18d8c049293d4c57a7f740bb2b37c5ec9a45ef0/GIF/Github.webp" width="200" /> |
-
-
-During my work and my LinkedIn contributions, I came across a wonderful set of people who allowed me to exhibit my
-talents and skills and made my learning experience easy. Furthermore, they were also influential in giving me the right
-guidance and direction which shaped my interest in machine learning and data science. Below are some wonderful people
-who were influential and learned about my work in the field of data science and artificial intelligence.
-
-✅ [__name__](link) - He is a Data Scientist at
-[__Apple__](https://en.wikipedia.org/wiki/Apple_Inc.) and saw my work through LinkedIn Contributions. He gave me a good
-idea about connecting with people through LinkedIn and Networking events. Furthermore, I discussed my projects with him
-and got a good idea about some of the improvements that could be made in real-time projects. This gave me a good idea
-about the overall workflow of machine learning and data science starting from Visualization to the Deployment of the
-models.
-
-
 
 ## 🎬🔚 Summary
 
