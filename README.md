@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Yassir ElJayi 👋</h1>
+<h1 align="center"> <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/52881ee40ac58766d1cec6197ceb5779f5682651/GIF/hi.gif" width=40 height=40 /> there, I'm Yassir ElJayi <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/46695fbee0a500ee376dcf994eec44738b396522/GIF/wave.gif" width=40 height=40 /> </h1>
 
 > I'm a skilled __mathematician__ adept at leveraging __Machine Learning__, __Deep Learning__ and __Data Science__ techniques to unravel complex predictive models. My goal is to collaborate with businesses to uncover insights behind these predictions, turning intricate concepts into actionable decisions.
 >
@@ -12,13 +12,17 @@
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/840276290031321128/840276290031321131)
 
 
-<h2>👨‍💻🙋🏼‍♂️ About Me 💼📢: </h2>
+<h2>👨‍💻🙋🏼‍♂️ <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/041bfaebc1a8c749a70c2c7b72e559549aee75f3/GIF/aboutme.gif" width=100 height=30 /> 💼📢: </h2>
+
+
 
 | I hold a Masters Degree in Mathematics and machine learning at. I have *4+ years* of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by __Stanford University__ and Deep Learning Specialization by . These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. I worked at companies such  as a __Data Scientist__ and generated value from data. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂 | ![](https://github.com/EljayiYassir/GIF-IMG-File/blob/b4ff2f45bd4b8178b2c19d4c17465037f3421c77/IMAGE/personal_profile.jpg) |
 | :-| :-:| 
 
 
-<h2>🪚🔧 My Skills 😀😀:</h2>
+<h2>🪚🔧 My <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/b0ab0dc030cd80e3fe4dc549beacf293d25e9f23/GIF/skill.gif" width=100 height=20 /> 😀😀:</h2>
+
+
 
 Starting at a young age, I acquired coding skills by initially learning the __C__ language. Currently, I am expanding my
 knowledge by studying Python, which enhances my comprehension of machine learning and data science. Consequently, I have
@@ -44,18 +48,14 @@ understanding of the extent and depth of my expertise.
 ```
 
 ## 💼🎒 My Portfolio Overview:
+<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/bc23e983f0ff96b20bb4a23a2c7ef15457c64434/GIF/portfolio.gif" width=1000 height=300 />
 
-I encourage you to explore my machine learning and deep learning projects to gain insight into my expertise. The links
-are provided below, along with detailed descriptions at the bottom of this website. My portfolio showcases a diverse and
-in-depth understanding of various areas, including computer vision, natural language processing, and more.
-
-<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/7766711b8a11352ebd9d0bd06ca9b7b80a79e480/IMAGE/Projects_profil.jpg" width=1000 height=400 />
+I encourage you to explore my machine learning and deep learning projects to gain insight into my expertise. The links are provided below, along with detailed descriptions at the bottom of this website. My portfolio showcases a diverse and in-depth understanding of various areas, including computer vision, natural language processing, and more.
 
 
-
-| | 🚴‍ [Washington Bike Demand Prediction](https://github.com/EljayiYassir/date_fruit_classification)| 🍇🌴 [Date fruit classification](https://github.com/EljayiYassir/date_fruit_classification)| 
+| | 🍇🌴 [Date fruit classification](https://github.com/EljayiYassir/date_fruit_classification)| | 
 | :-:| :-:| :-:|
-| 🖥 My Machine Learning Projects |[<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 150 height = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| [<img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 150 height = 150/>](https://github.com/EljayiYassir/date_fruit_classification)|
+| 🖥 My Machine Learning Projects |[<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 300 height = 200/>](https://github.com/EljayiYassir/date_fruit_classification)| |
 | | 📚 [Predicting Readability of Texts](https://github.com/EljayiYassir/date_fruit_classification)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 |🖥 My Natural Language Processing (NLP) Projects | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)|
 | | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/EljayiYassir/date_fruit_classification)| 🌞 [Solar Panels Dust Detection]| (https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
