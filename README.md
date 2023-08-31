@@ -14,10 +14,17 @@
 
 <h2>👨‍💻🙋🏼‍♂️ <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/041bfaebc1a8c749a70c2c7b72e559549aee75f3/GIF/aboutme.gif" width=100 height=30 /> 💼📢: </h2>
 
+<img align="right" width="300" height="350" src="https://github.com/EljayiYassir/GIF-IMG-File/blob/b4ff2f45bd4b8178b2c19d4c17465037f3421c77/IMAGE/personal_profile.jpg">
 
+  I hold a Master's Degree in Mathematics and Machine Learning from the Faculty of Science Dhar Elmahraz, Fes. 
+  Now, i am currently pursuing a Ph.D. program at fsdm, Fez, and UM6P, Benguir. Additionally, I possess over 4 years of experience dedicated to building, improving, and deploying machine learning and deep learning models, with a particular focus on NLP and Recurrent Neural Networks. This experience stems from my role as a researcher in Mathematics, Geometry, and Machine Learning models.
 
-| I hold a Masters Degree in Mathematics and machine learning at. I have *4+ years* of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by __Stanford University__ and Deep Learning Specialization by . These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. I worked at companies such  as a __Data Scientist__ and generated value from data. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂 | ![](https://github.com/EljayiYassir/GIF-IMG-File/blob/b4ff2f45bd4b8178b2c19d4c17465037f3421c77/IMAGE/personal_profile.jpg) |
-| :-| :-:| 
+I have augmented my academic foundation with courses that have significantly contributed to both my practical implementation skills and theoretical understanding of machine learning, deep learning, and data science. Notably, I have completed the Machine Learning Certification from Stanford University, the Deep Learning Specialization from Stanford University, and the Data Science Specialization from IBM.
+
+My expertise has been applied to diverse projects spanning industries such as pharmaceuticals, agriculture, retail, manufacturing, and automobiles. This portfolio has been meticulously curated to showcase the depth and breadth of my skill set in tackling various challenges in machine learning and deep learning.
+
+<p align="center"><Strong> Thank you for your attention and consideration.</Strong> 🙏🏻 </p>
+
 
 
 <h2>🪚🔧 My <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/b0ab0dc030cd80e3fe4dc549beacf293d25e9f23/GIF/skill.gif" width=100 height=20 /> 😀😀:</h2>
@@ -58,8 +65,8 @@ I encourage you to explore my machine learning and deep learning projects to gai
 | 🖥 My Machine Learning Projects |[<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 300 height = 200/>](https://github.com/EljayiYassir/date_fruit_classification)| |
 | | 📚 [Predicting Readability of Texts](https://github.com/EljayiYassir/date_fruit_classification)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 |🖥 My Natural Language Processing (NLP) Projects | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)|
-| | 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/EljayiYassir/date_fruit_classification)| 🌞 [Solar Panels Dust Detection]| (https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
-|🖥 My Computer Vision Projects | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| 
+| | 🧱 [Structural Defects Detection](https://github.com/EljayiYassir/date_fruit_classification)| 👶🏻🧑🏻 [Children & adulte classification]| (https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
+|🖥 My Computer Vision Projects | [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/4c857715d9f42aea088717fdac4805f5f8428eb9/IMAGE/structural_defect.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| 
 | | 📚 [Article Recommender System](https://github.com/EljayiYassir/date_fruit_classification)| 
 |🖥 My Unsupervised Machine Learning Projects | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Article%20Recommender%20System%20Image.jpg" width = 150 height = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| 
 | | 📽 [YouTube Video Analysis](https://github.com/EljayiYassir/date_fruit_classification)| 🔍 [Google Play Store Genre Prediction](https://github.com/EljayiYassir/date_fruit_classification)|
