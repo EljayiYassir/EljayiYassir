@@ -63,18 +63,18 @@ I encourage you to explore my machine learning and deep learning projects to gai
 | | 🍇🌴 [Date fruit classification](https://github.com/EljayiYassir/date_fruit_classification)| | 
 | :-:| :-:| :-:|
 | 🖥 My Machine Learning Projects |[<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 300 height = 200/>](https://github.com/EljayiYassir/date_fruit_classification)| |
-| | 📚 [Predicting Readability of Texts](https://github.com/EljayiYassir/date_fruit_classification)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
-|🖥 My Natural Language Processing (NLP) Projects | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)|
-| | 🧱 [Structural Defects Detection](https://github.com/EljayiYassir/date_fruit_classification)| 👶🏻🧑🏻 [Children & adulte classification]| (https://github.com/suhasmaddali/Solar-Panels-Dust-Detection)|
-|🖥 My Computer Vision Projects | [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/4c857715d9f42aea088717fdac4805f5f8428eb9/IMAGE/structural_defect.jpg" height = 150 width = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| 
-| | 📚 [Article Recommender System](https://github.com/EljayiYassir/date_fruit_classification)| 
-|🖥 My Unsupervised Machine Learning Projects | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Article%20Recommender%20System%20Image.jpg" width = 150 height = 150/>](https://github.com/EljayiYassir/date_fruit_classification)| 
-| | 📽 [YouTube Video Analysis](https://github.com/EljayiYassir/date_fruit_classification)| 🔍 [Google Play Store Genre Prediction](https://github.com/EljayiYassir/date_fruit_classification)|
-|🖥 My Data Visualization Projects | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 150 height = 150/>](https://github.com/EljayiYassir/date_fruit_classification) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 150 height = 150/>](https://github.com/EljayiYassir/date_fruit_classification)|
-| | 🍿 [highest-grossing mobile games Web Scraping](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb)| 🍔 [Restaurant Recipes Web Scraping XML]()|
-|🖥 My Web Scraping Projects | [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 150 height = 150/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) |
-| | 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
-| 🖥 My SQL Projects| [<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/taxigif.gif" width = 150 height = 150/>](https://github.com/EljayiYassir/date_fruit_classification)|
+| | 📚 [Predicting Readability of Texts]()| 👹 [Twitter Sentiment Analysis]() |
+|🖥 My Natural Language Processing (NLP) Projects | [<img src = "" height = 150 width = 300/>]()| [<img src="" height = 150 width = 300/>]()|
+| | 🧱 [Structural Defects Detection](https://github.com/EljayiYassir/date_fruit_classification)| 👶🏻🧑🏻 [Children & adulte classification](https://github.com/EljayiYassir/child_adult_classification)|
+|🖥 My Computer Vision Projects | [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/4c857715d9f42aea088717fdac4805f5f8428eb9/IMAGE/structural_defect.jpg" height = 200 width = 300/>](https://github.com/EljayiYassir/date_fruit_classification)| [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/e55e6e0078ce43caf1c567edba70a8a544d416ff/IMAGE/child_vs_adult.jpg" height = 200 width = 300/>]([sdfhgfhfgs](https://github.com/EljayiYassir/child_adult_classification))| 
+| | 📚 [Article Recommender System]()| 
+|🖥 My Unsupervised Machine Learning Projects | [<img src = "" width = 300 height = 200/>]()| 
+| | 📽 [YouTube Video Analysis]()| 🔍 [Google Play Store Genre Prediction]()|
+|🖥 My Data Visualization Projects | [<img src = "" width = 300 height = 200/>]() | [<img src = "" width = 300 height = 200/>]()|
+| | 🎮📱 [highest-grossing mobile games Web Scraping](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb)| ⛩️🌸☯🍜 [Top animes acording myanimelist](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/66a73912a10b042d32ea7f3c25ce95ec6149f0a2/2nd%20top_anime_list.ipynb)|
+|🖥 My Web Scraping Projects | [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/7b96868a44a7e96dcf7e7dc30fa2dab67d8585a5/IMAGE/gaming_list_web_scraping.png" width = 300 height = 200/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb) | [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/c9b12496cf5307cbecbfd8310c52c37338b6bbf3/IMAGE/animes_list.jpg" width = 300 height = 200/>](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/66a73912a10b042d32ea7f3c25ce95ec6149f0a2/2nd%20top_anime_list.ipynb) |
+| | 🚕 [Cab Reservation System]()|
+| 🖥 My SQL Projects| [<img src = "" width = 300 height = 200/>]()|
 
 <hr style="border:0.01px solid blue">
 
