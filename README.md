@@ -60,9 +60,9 @@ understanding of the extent and depth of my expertise.
 I encourage you to explore my machine learning and deep learning projects to gain insight into my expertise. The links are provided below, along with detailed descriptions at the bottom of this website. My portfolio showcases a diverse and in-depth understanding of various areas, including computer vision, natural language processing, and more.
 
 
-| | 🍇🌴 [Date fruit classification](https://github.com/EljayiYassir/date_fruit_classification)| | 
+| |  [Skills Recommendation for IT Jobs project](https://github.com/EljayiYassir/IT_jobs_skills_recommendation)| 🍇🌴 [Date fruit classification](https://github.com/EljayiYassir/date_fruit_classification) | 
 | :-:| :-:| :-:|
-| 🖥 My Machine Learning Projects |[<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 300 height = 200/>](https://github.com/EljayiYassir/date_fruit_classification)| |
+| 🖥 My Machine Learning & Deep Learning Projects |[<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/004f393e177eb71b0fb7370132eb1d4c859f5548/IMAGE/it-jobs-skill.webp" width = 300 height = 200/>](https://github.com/EljayiYassir/date_fruit_classification) | [<img src = "https://github.com/EljayiYassir/GIF-IMG-File/blob/94baf9cb997c00e1a1afdc040b8ee692b20c00bb/IMAGE/date_fruit.jpg" width = 300 height = 200/>](https://github.com/EljayiYassir/date_fruit_classification) |
 | | 📚 [Predicting Readability of Texts]()| 👹 [Twitter Sentiment Analysis]() |
 |🖥 My Natural Language Processing (NLP) Projects | [<img src = "" height = 150 width = 300/>]()| [<img src="" height = 150 width = 300/>]()|
 | | 🧱 [Structural Defects Detection](https://github.com/EljayiYassir/date_fruit_classification)| 👶🏻🧑🏻 [Children & adulte classification](https://github.com/EljayiYassir/child_adult_classification)|
